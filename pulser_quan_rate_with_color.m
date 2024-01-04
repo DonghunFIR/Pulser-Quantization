@@ -5,7 +5,7 @@ clc; clear; close all;
 
 addpath('Z:\LAB Common\Z Lab common resources\Software tools\fieldii_20220216\Field_II_ver_3_30_windows')
 disp('Beamfield Simulation- Field II')
-
+%%% git hub 수정 확인용 %%%
 field_init(0);
 
 %% User define
